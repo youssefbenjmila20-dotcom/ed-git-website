@@ -10,4 +10,7 @@ This repository contains a simple website for Green Bikes, a fictional bicycle r
 ## How to open the website
 
 Open the `index.html` file in a web browser.
+## Live website
+
+Visit the website: https://youssefbenjmila20-dotcom.github.io/ed-git-website/
 
