@@ -226,4 +226,12 @@ footer {
         justify-content: center;
         gap: 12px;
     }
+    .bike-image {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+    border-radius: 12px;
+}
 }
